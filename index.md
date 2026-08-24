@@ -45,15 +45,15 @@ A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation
 
 <p>
 The Vlasov–Poisson System with Radiation Damping on the Torus: Propagation of Moments and Energy Dissipation Equality (with Xianwen Zhang).<br>
-<strong>Kinetic and Related Models<strong>, 21, 41–68, 2026.
+<strong>Kinetic and Related Models</strong>, 21, 41–68, 2026.
 </p>
 
 <p>
 Landau Damping for Vlasov–Poisson System with Radiation Damping on the Torus (with Xianwen Zhang).<br>
-<strong>Journal of Nonlinear Science<strong>, 35, Article 30, 2025.
+<strong>Journal of Nonlinear Science</strong>, 35, Article 30, 2025.
 </p>
 
 <p>
 Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan).<br>
-<strong>Journal of Differential Equations<strong>, 358, 256–294, 2023.
+<strong>Journal of Differential Equations</strong>, 358, 256–294, 2023.
 </p>
