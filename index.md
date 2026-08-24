@@ -54,6 +54,6 @@ Preprint. 2026
 
 
 
--Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan).<br>
+- Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan).<br>
 <strong>Journal of Differential Equations</strong>, 358, 256–294, 2023.
 
