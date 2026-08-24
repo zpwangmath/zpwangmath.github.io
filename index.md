@@ -13,9 +13,9 @@ I received my Ph.D. in Mathematics from Huazhong University of Science and Techn
 My research focuses on the mathematical analysis of kinetic equations, especially the Vlasov–Poisson systems and related self-consistent field models.
 
 My work mainly concerns:
-- propagation of moments and velocity support;
-- conservation laws and energy methods;
-- stochastic perturbations of kinetic equations.
+- Propagation of moments and velocity support;
+- Conservation laws and energy methods;
+- Stochastic perturbations of kinetic equations.
 
 
 <h2>Preprints</h2>
@@ -44,16 +44,16 @@ A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation
 <h2>Published Papers</h2>
 
 <p>
-The Vlasov–Poisson System with Radiation Damping on the Torus: Propagation of Moments and Energy Dissipation Equality (with Xianwen Zhang<br>).<br>
+The Vlasov–Poisson System with Radiation Damping on the Torus: Propagation of Moments and Energy Dissipation Equality (with Xianwen Zhang).<br>
 <strong>Kinetic and Related Models<strong>, 21, 41–68, 2026.
 </p>
 
 <p>
-Landau Damping for Vlasov–Poisson System with Radiation Damping on the Torus (with Xianwen Zhang<br>).<br>
+Landau Damping for Vlasov–Poisson System with Radiation Damping on the Torus (with Xianwen Zhang).<br>
 <strong>Journal of Nonlinear Science<strong>, 35, Article 30, 2025.
 </p>
 
 <p>
-Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan<br>).<br>
+Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan).<br>
 <strong>Journal of Differential Equations<strong>, 358, 256–294, 2023.
 </p>
