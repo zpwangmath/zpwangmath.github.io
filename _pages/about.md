@@ -19,4 +19,4 @@ My work mainly concerns the long-time behavior of kinetic models, including:
 - conservation laws and energy methods;
 - stochastic perturbations of kinetic equations.
 
-Through the study of kinetic models, I aim to understand the interplay between nonlinear dynamics, singular interactions, and stochastic effects in evolution equations.
+My research aims to develop analytical methods for kinetic equations, focusing on the interplay between nonlinear dynamics, singular interactions, conservation laws, and stochastic effects.
