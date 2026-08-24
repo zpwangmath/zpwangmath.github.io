@@ -20,10 +20,10 @@ My work mainly concerns:
 
 <h2>Preprints</h2>
 
-<p>
+
 - Noise Prevents Gravitational Collapse II: The Four-Dimensional Vlasov–Poisson System.<br>
 Preprint. 2026
-</p>
+
 
 <p>
 - Noise Prevents Gravitational Collapse I: The Relativistic Vlasov–Poisson System.<br>
