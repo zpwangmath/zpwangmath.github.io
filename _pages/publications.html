@@ -5,32 +5,45 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h2>Preprints</h2>
 
-{% include base_path %}
+<p>
+<strong>Noise Prevents Gravitational Collapse II: The Four-Dimensional Vlasov–Poisson System</strong><br>
+Preprint.
+</p>
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p>
+<strong>Noise Prevents Gravitational Collapse I: The Relativistic Vlasov–Poisson System</strong><br>
+Preprint.
+</p>
+
+<p>
+<strong>A Coulomb-Corrected Labeled Energy and Growth Estimates for the Vlasov–Poisson System</strong><br>
+<a href="https://arxiv.org/abs/2607.26847">arXiv:2607.26847</a>.
+</p>
+
+<p>
+<strong>A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation and Moment Propagation</strong><br>
+<a href="https://arxiv.org/abs/2607.26840">arXiv:2607.26840</a>.
+</p>
 
 
+<h2>Published Papers</h2>
 
+<p>
+<strong>The Vlasov–Poisson System with Radiation Damping on the Torus: Propagation of Moments and Energy Dissipation Equality</strong><br>
+with Xianwen Zhang<br>
+<em>Kinetic and Related Models</em>, 21, 41–68, 2026.
+</p>
+
+<p>
+<strong>Landau Damping for Vlasov–Poisson System with Radiation Damping on the Torus</strong><br>
+with Xianwen Zhang<br>
+<em>Journal of Nonlinear Science</em>, 35, Article 30, 2025.
+</p>
+
+<p>
+<strong>Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity</strong><br>
+with Kai Yan<br>
+<em>Journal of Differential Equations</em>, 358, 256–294, 2023.
+</p>
