@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+title                    : "Zhaopeng Wang"
 title_separator          : "-"
 name                     : &name "Zhaopeng Wang"
 description              : &description "Academic homepage of Zhaopeng Wang"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,13 +24,13 @@ repository               : "zpwangmath/zpwangmath.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Zhaopeng Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Postdoctoral Researcher in Mathematics"
+  location         : "Beijing, China"
+  employer         : "Beijing Institute of Technology"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "zpwang@bit.edu.cn" 
 
   # Academic websites
   academia         : # URL
