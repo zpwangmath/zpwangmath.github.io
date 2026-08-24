@@ -25,35 +25,35 @@ My work mainly concerns:
 Preprint. 2026
 
 
-<p>
+
 - Noise Prevents Gravitational Collapse I: The Relativistic Vlasov–Poisson System.<br>
 Preprint. 2026
-</p>
 
-<p>
+
+
 - A Coulomb-Corrected Labeled Energy and Growth Estimates for the Vlasov–Poisson System.<br>
 <a href="https://arxiv.org/abs/2607.26847">arXiv:2607.26847</a>.
-</p>
 
-<p>
+
+
 - A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation and Moment Propagation.<br>
 <a href="https://arxiv.org/abs/2607.26840">arXiv:2607.26840</a>.
-</p>
+
 
 
 <h2>Published Papers</h2>
 
-<p>
+
 - The Vlasov–Poisson System with Radiation Damping on the Torus: Propagation of Moments and Energy Dissipation Equality (with Xianwen Zhang).<br>
 <strong>Kinetic and Related Models</strong>, 21, 41–68, 2026.
-</p>
 
-<p>
+
+
 - Landau Damping for Vlasov–Poisson System with Radiation Damping on the Torus (with Xianwen Zhang).<br>
 <strong>Journal of Nonlinear Science</strong>, 35, Article 30, 2025.
-</p>
 
-<p>
+
+
 -Blow-up Data for a Two-Component Camassa–Holm System with High Order Nonlinearity (with Kai Yan).<br>
 <strong>Journal of Differential Equations</strong>, 358, 256–294, 2023.
-</p>
+
