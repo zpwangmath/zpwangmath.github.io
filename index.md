@@ -10,14 +10,14 @@ I received my Ph.D. in Mathematics from Huazhong University of Science and Techn
 
 <h2>Research</h2>
 
-My research focuses on the mathematical analysis of kinetic equations, especially the Vlasov–Poisson systems and related self-consistent field models.
+My research focuses on the mathematical analysis of kinetic equations, especially Vlasov-type models and related kinetic PDE.
 
-Recently, I have been studying the effects of noise on Vlasov–Poisson systems.
+Recently, I have been studying noise effects and regularity problems for kinetic equations.
 
 My work mainly concerns:
-- Propagation of moments and velocity support;
-- Conservation laws and energy methods;
-- Stochastic perturbations of kinetic equations.
+- Vlasov–Poisson and self-consistent field models;
+- Regularity and qualitative properties of kinetic equations；
+- Noise effects in kinetic equations.
 
 
 <h2>Preprints</h2>
