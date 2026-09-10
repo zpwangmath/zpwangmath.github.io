@@ -10,13 +10,13 @@ I received my Ph.D. in Mathematics from Huazhong University of Science and Techn
 
 <h2>Research</h2>
 
-My research focuses on the mathematical analysis of kinetic equations, especially Vlasov-type models and related kinetic PDE.
+My research focuses on the mathematical analysis of kinetic equations, especially Vlasov-type models and related kinetic PDEs.
 
-Recently, I have been studying noise effects and regularity problems for kinetic equations.
+Recently, I have been working on De Giorgi-Moser-Trudinger type methods for kinetic equations.
 
 My work mainly concerns:
 - Vlasov–Poisson and self-consistent field models;
-- Regularity and qualitative properties of kinetic equations；
+- Local boundedness and Harnack inequality for kinetic equations；
 - Noise effects in kinetic equations.
 
 
