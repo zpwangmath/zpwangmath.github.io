@@ -12,7 +12,7 @@ I received my Ph.D. in Mathematics from Huazhong University of Science and Techn
 
 My research focuses on the mathematical analysis of kinetic equations, especially Vlasov-type models and related kinetic PDEs.
 
-Recently, I have been working on De Giorgi-Moser-Trudinger type methods for kinetic equations.
+Recently, I have been working on De Giorgi-Moser type methods for kinetic equations.
 
 My work mainly concerns:
 - Vlasov–Poisson and self-consistent field models;
