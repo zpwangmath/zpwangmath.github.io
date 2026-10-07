@@ -23,9 +23,16 @@ My work mainly concerns:
 <h2>Preprints</h2>
 
 
+- Local Propagation of Momentum Moments for the Relativistic Vlasov--Poisson System.<br>
+<a href="https://arxiv.org/abs/2610.07738">arXiv:2610.07738</a>.
+
+
+- Propagation of Energy Moments for the Plasma--Charge Model.<br>
+<a href="https://arxiv.org/abs/2610.06134">arXiv:2610.06134</a>.
+
+
 - A Coulomb-Corrected Labeled Energy and Growth Estimates for the Vlasov–Poisson System.<br>
 <a href="https://arxiv.org/abs/2607.26847">arXiv:2607.26847</a>.
-
 
 
 - A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation and Moment Propagation.<br>
