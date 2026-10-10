@@ -16,8 +16,7 @@ Recently, I have been working on De Giorgi-Moser type methods for kinetic equati
 
 My work mainly concerns:
 - Vlasov–Poisson and self-consistent field models;
-- Local boundedness and Harnack inequality for kinetic equations；
-- Noise effects in kinetic equations.
+- Local boundedness and Harnack inequality for kinetic equations.
 
 
 <h2>Preprints</h2>
