@@ -22,6 +22,10 @@ My work mainly concerns:
 <h2>Preprints</h2>
 
 
+- Preservation and Loss of Log-Concavity in the Repulsive Vlasov--Poisson System  (with Xiaoxiao Sun).<br>
+<a href="https://arxiv.org/abs/2611.07380">arXiv:2611.07380</a>.
+
+
 - Local Propagation of Momentum Moments for the Relativistic Vlasov--Poisson System.<br>
 <a href="https://arxiv.org/abs/2610.07738">arXiv:2610.07738</a>.
 
