@@ -19,27 +19,27 @@ My work mainly concerns:
 - Local boundedness and Harnack inequality for kinetic equations.
 
 
-<h2>Preprints <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer" style="font-size: 0.65em; margin-left: 12px; font-weight: normal;">arXiv</a></h2>
+<h2>Preprints <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em; margin-left: 15px; font-weight: normal;">arXiv</a></h2>
 
 
 - Preservation and Loss of Log-Concavity in the Repulsive Vlasov--Poisson System  (with Xiaoxiao Sun).<br>
-
+<a href="https://arxiv.org/abs/2611.07380">arXiv:2611.07380</a>.
 
 
 - Local Propagation of Momentum Moments for the Relativistic Vlasov--Poisson System.<br>
-
+<a href="https://arxiv.org/abs/2610.07738">arXiv:2610.07738</a>.
 
 
 - Propagation of Energy Moments for the Plasma--Charge Model.<br>
-
+<a href="https://arxiv.org/abs/2610.06134">arXiv:2610.06134</a>.
 
 
 - A Coulomb-Corrected Labeled Energy and Growth Estimates for the Vlasov–Poisson System.<br>
-
+<a href="https://arxiv.org/abs/2607.26847">arXiv:2607.26847</a>.
 
 
 - A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation and Moment Propagation.<br>
-
+<a href="https://arxiv.org/abs/2607.26840">arXiv:2607.26840</a>.
 
 
 
