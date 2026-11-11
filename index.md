@@ -23,23 +23,23 @@ My work mainly concerns:
 
 
 - Preservation and Loss of Log-Concavity in the Repulsive Vlasov--Poisson System  (with Xiaoxiao Sun).<br>
-<a href="https://arxiv.org/abs/2611.07380">arXiv:2611.07380</a>.
+
 
 
 - Local Propagation of Momentum Moments for the Relativistic Vlasov--Poisson System.<br>
-<a href="https://arxiv.org/abs/2610.07738">arXiv:2610.07738</a>.
+
 
 
 - Propagation of Energy Moments for the Plasma--Charge Model.<br>
-<a href="https://arxiv.org/abs/2610.06134">arXiv:2610.06134</a>.
+
 
 
 - A Coulomb-Corrected Labeled Energy and Growth Estimates for the Vlasov–Poisson System.<br>
-<a href="https://arxiv.org/abs/2607.26847">arXiv:2607.26847</a>.
+
 
 
 - A Critical Density Estimate for the Vlasov–Poisson System: Energy Conservation and Moment Propagation.<br>
-<a href="https://arxiv.org/abs/2607.26840">arXiv:2607.26840</a>.
+
 
 
 
