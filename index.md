@@ -18,7 +18,8 @@ My work mainly concerns:
 - Vlasov–Poisson and self-consistent field models;
 - Local boundedness and Harnack inequality for kinetic equations.
 
-- <p>You can also find my work on <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer">arXiv</a>.</p>
+
+<p>You can also find my work on <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer">arXiv</a>.</p>
 
 
 <h2>Preprints</h2>
