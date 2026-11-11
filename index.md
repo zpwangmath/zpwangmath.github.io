@@ -18,9 +18,10 @@ My work mainly concerns:
 - Vlasov–Poisson and self-consistent field models;
 - Local boundedness and Harnack inequality for kinetic equations.
 
+- <p>You can also find my work on <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer">arXiv</a>.</p>
 
-<h2>Preprints <a href="https://arxiv.org/a/wang_z_38" target="_blank" rel="noopener noreferrer" style="font-size: 0.9em; margin-left: 15px; font-weight: normal;">arXiv</a></h2>
 
+<h2>Preprints</h2>
 
 - Preservation and Loss of Log-Concavity in the Repulsive Vlasov--Poisson System  (with Xiaoxiao Sun).<br>
 <a href="https://arxiv.org/abs/2611.07380">arXiv:2611.07380</a>.
